@@ -1,0 +1,6 @@
+env_name_as_you_like:
+  sessions:
+    default:
+      database: mongoidexp
+      hosts:
+        - localhost:27017
